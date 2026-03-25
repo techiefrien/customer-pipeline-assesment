@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.dlt/
+customer_pipeline/
+pipeline-service/.dlt/
+pipeline-service/customer_pipeline/

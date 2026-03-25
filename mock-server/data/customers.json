@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "CUST001",
+    "first_name": "Arjun",
+    "last_name": "Sharma",
+    "email": "arjun.sharma@email.com",
+    "phone": "+91-9876543210",
+    "address": "12, Anna Salai, Chennai, Tamil Nadu 600002",
+    "date_of_birth": "1990-05-15",
+    "account_balance": 15000.50,
+    "created_at": "2023-01-10T09:00:00"
+  },
+  {
+    "customer_id": "CUST002",
+    "first_name": "Priya",
+    "last_name": "Venkatesh",
+    "email": "priya.venkatesh@email.com",
+    "phone": "+91-9845012345",
+    "address": "45, T Nagar, Chennai, Tamil Nadu 600017",
+    "date_of_birth": "1992-08-22",
+    "account_balance": 28000.75,
+    "created_at": "2023-02-14T10:30:00"
+  },
+  {
+    "customer_id": "CUST003",
+    "first_name": "Rahul",
+    "last_name": "Krishnamurthy",
+    "email": "rahul.k@email.com",
+    "phone": "+91-9751234567",
+    "address": "78, Adyar, Chennai, Tamil Nadu 600020",
+    "date_of_birth": "1988-03-10",
+    "account_balance": 52000.00,
+    "created_at": "2023-01-25T08:15:00"
+  },
+  {
+    "customer_id": "CUST004",
+    "first_name": "Deepa",
+    "last_name": "Subramaniam",
+    "email": "deepa.sub@email.com",
+    "phone": "+91-9600123456",
+    "address": "23, Velachery, Chennai, Tamil Nadu 600042",
+    "date_of_birth": "1995-11-30",
+    "account_balance": 8500.25,
+    "created_at": "2023-03-05T11:00:00"
+  },
+  {
+    "customer_id": "CUST005",
+    "first_name": "Karthik",
+    "last_name": "Rajan",
+    "email": "karthik.rajan@email.com",
+    "phone": "+91-9444567890",
+    "address": "56, Tambaram, Chennai, Tamil Nadu 600045",
+    "date_of_birth": "1991-07-18",
+    "account_balance": 33000.00,
+    "created_at": "2023-02-28T14:00:00"
+  },
+  {
+    "customer_id": "CUST006",
+    "first_name": "Meena",
+    "last_name": "Pillai",
+    "email": "meena.pillai@email.com",
+    "phone": "+91-9382345678",
+    "address": "90, Porur, Chennai, Tamil Nadu 600116",
+    "date_of_birth": "1993-04-25",
+    "account_balance": 12000.80,
+    "created_at": "2023-04-01T09:45:00"
+  },
+  {
+    "customer_id": "CUST007",
+    "first_name": "Vijay",
+    "last_name": "Anand",
+    "email": "vijay.anand@email.com",
+    "phone": "+91-9500234567",
+    "address": "34, Chromepet, Chennai, Tamil Nadu 600044",
+    "date_of_birth": "1987-09-12",
+    "account_balance": 67000.50,
+    "created_at": "2023-01-15T13:30:00"
+  },
+  {
+    "customer_id": "CUST008",
+    "first_name": "Lakshmi",
+    "last_name": "Narayanan",
+    "email": "lakshmi.n@email.com",
+    "phone": "+91-9789012345",
+    "address": "67, Mylapore, Chennai, Tamil Nadu 600004",
+    "date_of_birth": "1996-02-14",
+    "account_balance": 4500.00,
+    "created_at": "2023-05-10T10:00:00"
+  },
+  {
+    "customer_id": "CUST009",
+    "first_name": "Siva",
+    "last_name": "Prakash",
+    "email": "siva.prakash@email.com",
+    "phone": "+91-9677890123",
+    "address": "11, Guindy, Chennai, Tamil Nadu 600032",
+    "date_of_birth": "1989-06-20",
+    "account_balance": 41000.25,
+    "created_at": "2023-03-18T15:00:00"
+  },
+  {
+    "customer_id": "CUST010",
+    "first_name": "Nithya",
+    "last_name": "Chandrasekaran",
+    "email": "nithya.c@email.com",
+    "phone": "+91-9566789012",
+    "address": "89, Kodambakkam, Chennai, Tamil Nadu 600024",
+    "date_of_birth": "1994-12-05",
+    "account_balance": 19500.60,
+    "created_at": "2023-04-22T08:30:00"
+  },
+  {
+    "customer_id": "CUST011",
+    "first_name": "Arun",
+    "last_name": "Balaji",
+    "email": "arun.balaji@email.com",
+    "phone": "+91-9455678901",
+    "address": "22, Perambur, Chennai, Tamil Nadu 600011",
+    "date_of_birth": "1990-10-08",
+    "account_balance": 23000.00,
+    "created_at": "2023-02-05T12:00:00"
+  },
+  {
+    "customer_id": "CUST012",
+    "first_name": "Saranya",
+    "last_name": "Murugan",
+    "email": "saranya.m@email.com",
+    "phone": "+91-9344567890",
+    "address": "44, Sholinganallur, Chennai, Tamil Nadu 600119",
+    "date_of_birth": "1997-01-17",
+    "account_balance": 7200.40,
+    "created_at": "2023-06-01T09:00:00"
+  },
+  {
+    "customer_id": "CUST013",
+    "first_name": "Manoj",
+    "last_name": "Kumar",
+    "email": "manoj.kumar@email.com",
+    "phone": "+91-9233456789",
+    "address": "55, Ambattur, Chennai, Tamil Nadu 600053",
+    "date_of_birth": "1986-08-30",
+    "account_balance": 88000.00,
+    "created_at": "2023-01-08T07:30:00"
+  },
+  {
+    "customer_id": "CUST014",
+    "first_name": "Kavitha",
+    "last_name": "Sundaram",
+    "email": "kavitha.s@email.com",
+    "phone": "+91-9122345678",
+    "address": "77, Pallavaram, Chennai, Tamil Nadu 600043",
+    "date_of_birth": "1993-03-22",
+    "account_balance": 31500.75,
+    "created_at": "2023-03-30T16:00:00"
+  },
+  {
+    "customer_id": "CUST015",
+    "first_name": "Suresh",
+    "last_name": "Babu",
+    "email": "suresh.babu@email.com",
+    "phone": "+91-9011234567",
+    "address": "33, Avadi, Chennai, Tamil Nadu 600054",
+    "date_of_birth": "1991-05-05",
+    "account_balance": 16000.20,
+    "created_at": "2023-05-15T11:30:00"
+  },
+  {
+    "customer_id": "CUST016",
+    "first_name": "Divya",
+    "last_name": "Ramachandran",
+    "email": "divya.r@email.com",
+    "phone": "+91-8900123456",
+    "address": "88, Nungambakkam, Chennai, Tamil Nadu 600034",
+    "date_of_birth": "1995-09-14",
+    "account_balance": 45000.00,
+    "created_at": "2023-04-10T10:15:00"
+  },
+  {
+    "customer_id": "CUST017",
+    "first_name": "Ganesh",
+    "last_name": "Iyer",
+    "email": "ganesh.iyer@email.com",
+    "phone": "+91-8799012345",
+    "address": "99, Besant Nagar, Chennai, Tamil Nadu 600090",
+    "date_of_birth": "1988-11-25",
+    "account_balance": 72000.50,
+    "created_at": "2023-02-20T13:00:00"
+  },
+  {
+    "customer_id": "CUST018",
+    "first_name": "Revathi",
+    "last_name": "Gopalan",
+    "email": "revathi.g@email.com",
+    "phone": "+91-8688901234",
+    "address": "14, Egmore, Chennai, Tamil Nadu 600008",
+    "date_of_birth": "1992-07-07",
+    "account_balance": 9800.30,
+    "created_at": "2023-06-05T08:00:00"
+  },
+  {
+    "customer_id": "CUST019",
+    "first_name": "Bala",
+    "last_name": "Subramanian",
+    "email": "bala.sub@email.com",
+    "phone": "+91-8577890123",
+    "address": "66, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+    "date_of_birth": "1994-04-19",
+    "account_balance": 27500.00,
+    "created_at": "2023-03-12T14:30:00"
+  },
+  {
+    "customer_id": "CUST020",
+    "first_name": "Padma",
+    "last_name": "Venkatesan",
+    "email": "padma.v@email.com",
+    "phone": "+91-8466789012",
+    "address": "28, Royapettah, Chennai, Tamil Nadu 600014",
+    "date_of_birth": "1996-12-31",
+    "account_balance": 11200.90,
+    "created_at": "2023-05-28T09:30:00"
+  }
+]
