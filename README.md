@@ -50,6 +50,5 @@ customer-pipeline/
     ├── models/customer.py
     ├── services/ingestion.py
     ├── Dockerfile
-    └── requirements.txt    ├── Dockerfile
     └── requirements.txt
 ```
