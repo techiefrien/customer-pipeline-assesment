@@ -38,6 +38,7 @@ curl http://localhost:8000/api/customers/CUST001
 customer-pipeline/
 ├── docker-compose.yml
 ├── README.md
+├── .gitignore
 ├── mock-server/
 │   ├── app.py
 │   ├── data/customers.json
@@ -49,5 +50,6 @@ customer-pipeline/
     ├── models/customer.py
     ├── services/ingestion.py
     ├── Dockerfile
+    └── requirements.txt    ├── Dockerfile
     └── requirements.txt
 ```
